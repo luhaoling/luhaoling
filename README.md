@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Brabem.👋
+<!--You are my ![Visitor Count](https://profile-counter.glitch.me/luhaoling/count.svg) visitor.Thank You!😘😘-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luhaoling&layout=compact&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=luhaoling&show_icons=true&theme=transparent)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=luhaoling&theme=dracula)
+
+
+
 
 <!--
 **luhaoling/luhaoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
